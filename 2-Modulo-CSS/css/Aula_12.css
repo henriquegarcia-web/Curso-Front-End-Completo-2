@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --cor-padrao: orangered;
+  --tamanho-padrao: 400px;
+}
+
+div {
+  width: var(--tamanho-padrao);
+  height: var(--tamanho-padrao);
+  background-color: var(--cor-padrao);
+}

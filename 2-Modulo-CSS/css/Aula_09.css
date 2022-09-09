@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+div1 h2.title {
+  color: greenyellow;
+}
+
+h2.title {
+  color: orangered;
+}
+
+h2 {
+  font-size: 17px;
+  color: aqua;
+}
+
+.div1 > .div2 h2.title {
+  color: orangered;
+}
+
+.div1 > h2.title {
+  color: greenyellow;
+}

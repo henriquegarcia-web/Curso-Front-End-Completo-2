@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.bg {
+  width: 100%;
+  height: 100vh;
+  background-image: url('https://media.motociclismoonline.com.br/uploads/2022/05/Tiger-900-Rally-Pro_MY23_Sandstorm_AngleRHS.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
